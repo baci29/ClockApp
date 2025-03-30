@@ -1,6 +1,6 @@
 # ClockApp
 
-**ClockApp** je praktická aplikace, která nabízí funkce jako časovač, stopky a základní hodiny. Je navržena tak, aby byla jednoduchá, intuitivní a spolehlivá pro každodenní použití.
+**ClockApp** je praktická aplikace, která nabízí funkce jako časovač, stopky a budík. Je navržena tak, aby byla jednoduchá, intuitivní a spolehlivá pro každodenní použití.
 
 ## 🛠️ Použité technologie
 - **Swift**: Hlavní programovací jazyk pro vývoj aplikace.
